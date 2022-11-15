@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app2 vale</string>
+    <string name="txtenviado">Ingrese su nombre</string>
+    <string name="btnEnviar">SIGUIENTE</string>
+    <string name="btnVolver">VOLVER</string>
+
+
+</resources>
